@@ -14,5 +14,21 @@
                 "fuel": "Hibrido",
                 "seats": 7,
                 "type": "SUV"
+        },
+        {
+                "id": 2,
+                "name": "Mercedes-GLS",
+                "price": "900.000,00",
+                "fuel": "Hibrido",
+                "seats": 7,
+                "type": "SUV"
+        },
+        {
+                "id": 2,
+                "name": "Mercedes-GLS",
+                "price": "900.000,00",
+                "fuel": "Hibrido",
+                "seats": 7,
+                "type": "SUV"
         }
 ]
