@@ -1,20 +1,18 @@
-{
-    "cars": [
-        {
-            "carId": 0,
+[
+    {
+        "carId": 0,
             "carTitle": "Volvo XC90",
             "carPrice": "300.000,00",
             "carFuel": "Hibrido",
             "carSeats": 7,
             "carType": "SUV"
-        },
-        {
-            "carId": 1,
-            "carTitle": "Mercedes-Benz GLS",
-            "carPrice": "999.000,00",
+    },
+    {
+        "carId": 1,
+            "carTitle": "Mercedes-GLS",
+            "carPrice": "900.000,00",
             "carFuel": "Hibrido",
             "carSeats": 7,
             "carType": "SUV"
-        }
-    ]
-}
+    }
+]
