@@ -1,34 +1,34 @@
 [
         {
                 "id": 1,
-                "name": "Volvo XC90",
-                "price": "300.000,00",
-                "fuel": "Hibrido",
+                "name": "Volkswagen Tiguan",
+                "price": "250.000,00",
+                "fuel": "Gasolina",
                 "seat": 7,
                 "type": "SUV"
         },
         {
                 "id": 2,
-                "name": "Mercedes-GLS",
-                "price": "900.000,00",
+                "name": "Volvo XC90",
+                "price": "500.000,00",
                 "fuel": "Hibrido",
-                "seats": 7,
+                "seat": 7,
                 "type": "SUV"
         },
         {
                 "id": 3,
-                "name": "Mercedes-GLS",
-                "price": "900.000,00",
-                "fuel": "Hibrido",
+                "name": "Chery Tiggo 8",
+                "price": "175.000,00",
+                "fuel": "Gasolina",
                 "seats": 7,
                 "type": "SUV"
         },
         {
                 "id": 4,
-                "name": "Mercedes-GLS",
-                "price": "900.000,00",
-                "fuel": "Hibrido",
-                "seats": 7,
+                "name": "Hyundai Creta",
+                "price": "130.000,00",
+                "fuel": "Gasolina",
+                "seats": 5,
                 "type": "SUV"
         }
 ]
